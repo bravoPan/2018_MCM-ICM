@@ -1,0 +1,57 @@
+times = 0
+
+# minimal gap is the needed stock of this shop 
+def check_need(shop):
+	pro1 = current_storage_pro1 - real_sale_pro1
+	pro2 = current_storage_pro2 - real_sale_pro2
+	need_pro1 = capacity_pro1 - pro1
+	need_pro2 = capacity_pro2 - pro2
+	need_volume = remain_pro1  * 0.4 + remain_pro2 * 0.8
+	if remain_pro1 < 0:
+		remain_pro1 = 0
+		times += 0 - need_pro1
+	if remain_pro2 < 0: 
+		remain_pro2 = 0
+		times += 0 - need_pro2 
+	if remain_volume = 0
+		return False
+	else: 
+		return (remain_pro1, remain_pro2)
+
+
+def restock():
+
+	# check which shops need to be restocked
+	shops_need_restock = []
+	for shop in blocks:
+		if check_restock(shop):
+			shops_need_restock.append(shop)
+	
+	# match the shops which could restock one turn
+	one_turn_shops = []
+	while (!shops_need_restock == []):
+	    truck_storage = [0, 0] # first 0 represents the first product, second 0 represents the second product
+	    for shop in shops_need_restock:
+		add_pro1 = (truck_storage[0] + shop_needed_product1) * 0.4 
+		add_pro2 = (truck_storage[1] + shop_needed_product2) * 0.8
+		all_volume = add_pro1 + add_pro2
+		if add_volume < 20:
+			one_turn_shops.add(shop)
+			truck_storage[0] += shop_needed_product1
+			truck_storage[1] += shop_needed_product2
+	    spend_money_on_the_way = dis(w1, one_turn_shops, w1)
+	    profits += get_profits(shop_need_restock)
+	    truck_storage = [0, 0]
+	    shops_need_restock = list(set(shop_need_restock) - set(one_turn_shops))
+
+	
+	
+	
+	
+	
+
+			
+		
+
+	
+	

@@ -1,0 +1,36 @@
+ArrayList<Shop> shops  = new List(); 这个list包括的是这个block里所有的shops，从远到近
+
+//考虑刚开始最远端的shop
+if(最远shop能满足第二天的预测){
+	restock最远端的shop
+	for(最远端的节点node的邻居）{
+		if(能满足这个商店第二天的预算）{
+			填
+			node = 这个商店
+			shops.remoev(这个商店，因为不需要补货了）
+		}
+		else{
+			break， 直接回去，不考虑下面的商店了
+		}
+	}
+}
+//else是极端情况，就是一次补货不能满足最远端支撑第二天
+eles{
+	while(restock到最远端的shop能支撑第二天){
+		break
+	}
+}
+shops.remove(最远端的商店)
+
+//restock剩下的商店
+while(shops这个list里没有元素了){
+	while(车还有货){
+	for(除了最远端商店剩下的商店){
+		if(能满足此商店第二天的预算){
+			填
+			shops.remove(这个商店)
+			
+		}
+	}
+}
+}

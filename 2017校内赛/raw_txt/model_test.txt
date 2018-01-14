@@ -1,0 +1,515 @@
+---------------------------------------------
+day 1
+s6the current storage is [18, 14] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 2
+s6the current storage is [16, 8] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6', 's11']
+the route of this turn is s6
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+---------------------------------------------
+
+
+---------------------------------------------
+day 3
+s6the current storage is [14, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 4
+s6the current storage is [12, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 5
+s6the current storage is [10, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s11', 's7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 6
+s6the current storage is [8, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 7
+s6the current storage is [6, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 8
+s6the current storage is [4, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6', 's11']
+the route of this turn is s6
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+---------------------------------------------
+
+
+---------------------------------------------
+day 9
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 10
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 11
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s11', 's7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 12
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 13
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 14
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6', 's11']
+the route of this turn is s6
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+---------------------------------------------
+
+
+---------------------------------------------
+day 15
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 16
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 17
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s11', 's7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 18
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 19
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 20
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6', 's11']
+the route of this turn is s6
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+---------------------------------------------
+
+
+---------------------------------------------
+day 21
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 22
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 23
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s11', 's7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 24
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 25
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 26
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6', 's11']
+the route of this turn is s6
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+---------------------------------------------
+
+
+---------------------------------------------
+day 27
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 28
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 29
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s11', 's7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 30
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 31
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 32
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6', 's11']
+the route of this turn is s6
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+---------------------------------------------
+
+
+---------------------------------------------
+day 33
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 34
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 35
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s11', 's7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 36
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 37
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 38
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6', 's11']
+the route of this turn is s6
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+---------------------------------------------
+
+
+---------------------------------------------
+day 39
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 40
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 41
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s11', 's7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 42
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 43
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 44
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6', 's11']
+the route of this turn is s6
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+---------------------------------------------
+
+
+---------------------------------------------
+day 45
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 46
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 47
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [18, 5] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s11', 's7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 48
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [30, 30] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [30, 30] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6']
+the route of this turn is s6
+---------------------------------------------
+
+
+---------------------------------------------
+day 49
+s6the current storage is [4, 11] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [25, 15] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [26, 14] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s7']
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s7
+---------------------------------------------
+
+
+---------------------------------------------
+day 50
+s6the current storage is [2, 5] | the storage capacities is (20, 20) | s6 anticipation is (4, 11)
+s11the current storage is [20, 0] | the storage capacities is (30, 30) | s11 anticipation is (6, 15)
+s7the current storage is [22, 21] | the storage capacities is (30, 30) | s7 anticipation is (6, 21)
+shops needed to be restocked ['s6', 's11']
+the route of this turn is s6
+the route of this turn is(no-one-turn-matched, so as the outer most shop) s11
+---------------------------------------------
