@@ -1,2 +1,3 @@
 # 2018_MCM-ICM
-2018 MCM/ICM repository
+
+### Contributors: Pan, Zheng.Yang, Yuan.Hui
