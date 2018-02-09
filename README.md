@@ -4,7 +4,7 @@
   <img src="head_run.gif">
 </p>
 
-> Time remains: 96.21 hours
+> Time remains: 89.00 hours
 
 ### Contributors: Pan, Johnson, Jenny
 
