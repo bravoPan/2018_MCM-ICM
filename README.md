@@ -6,6 +6,6 @@
 
 > Time remains: 96.21 hours
 
-### Contributors: Pan, Johnson
+### Contributors: Pan, Johnson, Jenny
 
 
