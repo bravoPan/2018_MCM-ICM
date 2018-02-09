@@ -1,6 +1,8 @@
 # 2018_MCM-ICM
 
-![funny competition](head_run.gif)
+<p align="center">
+  <img src="head_run.gif">
+</p>
 
 > Time remains: 96.21 hours
 
