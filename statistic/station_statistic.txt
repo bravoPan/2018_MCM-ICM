@@ -1,4 +1,4 @@
-                   Result             ST(Now)         ST(Comming Soon)             DS               Total
+                   Result             SS(Now)         SS(Comming Soon)             DS               Total
                   Alabama                   7                   3                  25                  35
                   Arizona                  14                   7                  69                  90
                  Arkansas                   1                   6                  24                  31
