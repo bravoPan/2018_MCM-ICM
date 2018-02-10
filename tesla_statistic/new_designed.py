@@ -2,6 +2,8 @@ import re
 from bs4 import BeautifulSoup
 import requests
 from pprint import pprint
+import multiprocessing as mp
+import json
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) '
@@ -19,7 +21,9 @@ cali_info = [i for i in all_states if i.find("h2").text == "California"][0]
 cali_hrefs = ["https://www.tesla.com" + i.get("href") for i in cali_info.find_all("a")]
 
 waited_url = cali_hrefs
+total = cali_hrefs
 dest_detail_info = {}
+finished_set = set()
 
 
 def get_dest_info(url):
@@ -27,31 +31,34 @@ def get_dest_info(url):
     soup = BeautifulSoup(wb_data.text, "lxml")
     area = soup.select("#find-us-list-container > div > header > h1")[0].text
     # seoncd_area = #find-us-list-container > div > header > h1
-    chargers_des = "".join([i.text for i in soup.find_all("p") if "Connectors" in i.text])
+    chargers_des = "".join([i.text for i in soup.find_all("p")])
     dest_detail_info.setdefault(chargers_des, "")
     chargers = catch_connectors(chargers_des)
     dest_detail_info[chargers_des] = chargers
-    # if not area:
-    #     print("{} has problem".format(url))
-    # else:
-    #     print([area, chargers])
+    if not area:
+        print("fail {}".format(url))
+    else:
+        print("success {}".format(url))
+        # finished_set.add(url)
     return [area, chargers]
 
 
 def catch_connectors(des):
-    connector_match = re.compile("(\d+) Tesla Connectors, up to (\d+kW)")
+    connector_match = re.compile("(\d+) Tesla Connectors*, up to (\d+kW)")
     chargers = re.findall(connector_match, des)
     return chargers
 
 
-while len(waited_url) != 0:
-    for i in waited_url:
-        try:
-            get_dest_info(i)
-            print("success {}".format(i))
-            del waited_url[i]
-        except:
-            # print("fail {}".format(i))
-            pass
+# while len(waited_url) != 0:
+if __name__ == "__main__":
+    # print(catch_connectors("1 Tesla Connector, up to 16kW"))
+    pool = mp.Pool()
+    test = pool.map(get_dest_info, waited_url)
 
-pprint(dest_detail_info)
+    result = json.dumps(test)
+    with open("super_charger.json", "w") as f:
+        json.dump(result, f)
+
+# print(dest_detail_info)
+#
+# pprint(dest_detail_info)

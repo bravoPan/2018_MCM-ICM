@@ -1,0 +1,568 @@
+                                              Dest      17kW      10kW      64kW      21kW       8kW      11kW      14kW      40kW      16kW      13kW       6kW      20kW
+                             Days Inn - San Simeon         0         0         0         0         1         0         0         0         0         0         0         0
+                             Ojai Valley Inn & Spa         0         0         0         0         0         0         0         0         6         0         0         0
+     DoubleTree by Hilton Fresno Convention Center         0         0         0         0         2         0         0         0         0         0         0         0
+                     Four Seasons Westlake Village         0         0         0         0         0         0         0         0         2         0         0         0
+                               Rosewood CordeValle         0         0         0         0         0         0         0         0        14         0         0         0
+                              Tamber bey Vineyards         0         0         0         0         0         0         0         0         1         0         0         0
+            Courtyard Marriott Palo Alto-Los Altos         0         0         0         0         8         0         0         0         0         0         0         0
+                                 Sonoma Jet Center         0         0         0         0         2         0         0         0         0         0         0         0
+                        Pechanga Resort and Casino         0         0         0         0         0         0         0         0         3         0         0         0
+                                 Hotel Californian         0         4         0         0         0         0         0         0         0         0         0         0
+                    Real Goods Solar Living Center         0         0         0         0         2         0         0         0         0         0         0         0
+                                   West Sonoma Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                            Vines on the Marycrest         0         0         0         0         2         0         0         0         0         0         0         0
+                                  Hotel Shangri-La         0         0         0         0         3         0         0         0         0         0         0         0
+                      Two Bunch Palms Resort & Spa         0         0         0         0         0         0         0         0         2         0         0         0
+        Fairmont Heritage Place Ghirardelli Square         0         0         0         0         0         0         0         0         0         1         0         0
+                 Best Western Plus Stevenson Manor         0         0         0         0         0         0         0         0         2         0         0         0
+                           Holiday Inn Victorville         0         0         0         0         2         0         0         0         0         0         0         0
+                                   Calistoga Ranch         0         0         0         0         2         0         0         0         0         0         0         0
+            Greenwood Ridge Vineyards Tasting Room         0         0         0         0         0         0         0         0         1         0         0         0
+       Residence Inn by Marriott San Diego Central         0         0         0         0         0         0         0         0         0         1         0         0
+                     Cathedral City Public Parking         0         0         0         0         2         0         0         0         0         0         0         0
+                                   The Farm Winery         0         0         0         0         2         0         0         0         0         0         0         0
+                                    Santa Ynez Inn         0         0         0         0         0         0         0         0         1         0         0         0
+                                   Ridge Vineyards         0         0         0         0         0         0         0         0         1         0         0         0
+                                    Zialena Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                         Indian Wells Resort Hotel         0         0         0         0         0         0         0         0         3         0         0         0
+                      Ayres Suites - Mission Viejo         0         0         0         0         0         0         0         0         3         0         0         0
+              The Ritz-Carlton Hotel San Francisco         0         0         0         0         1         0         0         0         0         0         0         0
+                                Frog's Leap Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                    Loews Santa Monica Beach Hotel         0         0         0         0         0         0         0         0         0         4         0         0
+                                  Oakville Grocery         0         0         0         0         1         0         0         0         0         0         0         0
+                                       W San Diego         0         0         0         0         2         0         0         0         0         0         0         0
+                         The Lodge at Torrey Pines         0         0         0         0         2         0         0         0         0         0         0         0
+                                 Sorensen's Resort         0         0         0         0         0         0         0         0         1         0         0         0
+                     Best Western Plus Hilltop Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                                 Madrona Vineyards         0         0         0         0         0         0         0         0         2         0         0         0
+                           Jericho Canyon Vineyard         0         0         0         0         0         0         0         0         2         0         0         0
+                        Karmere Vineyards & Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                                  Cedar Glen Lodge         0         0         0         0         0         0         0         0         1         0         0         0
+                                          43 Ranch         0         0         0         0         0         0         0         0         3         0         0         0
+                        Allegretto Vineyard Resort         0         0         0         0         0         0         0         0         0         0         2         0
+                                 Bear Valley Lodge         0         0         0         0         0         0         0         0         2         0         0         0
+                                  Old World Winery         0         0         0         0         1         0         0         0         0         0         0         0
+                        Best Western Beachside Inn         0         0         0         0         1         0         0         0         0         0         0         0
+                        The Oaks Hotel Paso Robles         0         0         0         0         0         0         0         0         6         0         0         0
+                              Viceroy Santa Monica         0         0         0         0         0         0         0         0         3         0         0         0
+                          Hilton San Diego/Del Mar         0         0         0         0         2         0         0         0         0         0         0         0
+                 Dr Wilkinson's Hot Springs Resort         0         1         0         0         0         0         0         0         0         0         0         0
+                      Renaissance Long Beach Hotel         0         0         0         0         0         0         0         0         0         0         2         0
+                                   TE Connectivity         0         0         0         0         2         0         0         0         0         0         0         0
+             Ayres Hotel Manhattan Beach/Hawthorne         0         0         0         0         0         0         0         0         2         0         0         0
+            Embassy Suites La Quinta - Hotel & Spa         0         0         0         0         0         0         0         0         2         0         0         0
+                        Brecon Estate Tasting Room         0         0         0         0         2         0         0         0         0         0         0         0
+                           Pismo Lighthouse Suites         0         0         0         0         0         0         0         0         1         0         0         0
+                      Holiday Inn Express San Jose         0         0         0         0         0         0         0         0         1         0         0         0
+                                          Giornata         0         0         0         0         0         0         0         0         2         0         0         0
+                   Courtyard Los Angeles L.A. Live         0         1         0         0         0         0         0         0         0         0         0         0
+                             Lambert Bridge Winery         0         0         0         0         1         0         0         0         0         0         0         0
+              LangeTwins Family Winery & Vineyards         0         0         0         0         0         0         0         0         3         0         0         0
+                                 L'Auberge Del Mar         0         0         0         0         3         0         0         0         0         0         0         0
+                           Bob's Well Bread Bakery         0         0         0         0         1         0         0         0         0         0         0         0
+                       Candlelight Inn Napa Valley         0         0         0         0         0         0         0         0         1         0         0         0
+                          Half Moon Bay Distillery         0         0         0         0         1         0         0         0         0         0         0         0
+     The Fess Parker a DoubleTree by Hilton Resort         0         0         0         0         5         0         0         0         0         0         0         0
+                                  Nine Suns Winery         0         0         0         0         0         0         0         0         0         2         0         0
+                 Ayres Hotel & Spa - Mission Viejo         0         0         0         0         0         0         0         0         3         0         0         0
+                 Peachy Canyon Winery Tasting Room         0         0         0         0         1         0         0         0         0         0         0         0
+                       Ridge Vineyards Monte Bello         0         0         0         0         1         0         0         0         0         0         0         0
+                         Oliver Luxury Real Estate         0         0         0         0         0         0         0         0         0         2         0         0
+                     La Piazza Ristorante Italiano         0         0         0         0         0         0         0         0         2         0         0         0
+                  Hannah Nicole Vineyards & Winery         0         0         0         0         2         0         0         0         0         0         0         0
+                        Ayres Hotel - Laguna Woods         0         0         0         0         0         0         0         0         3         0         0         0
+                                  Solage Calistoga         0         0         0         0         0         0         0         0         2         0         0         0
+             Cortona Inn and Suites Anaheim Resort         0         0         0         0         0         0         0         0         2         0         0         0
+                           Marina del Rey Marriott         0         0         0         0         2         0         0         0         0         0         0         0
+                            Ace Hotel  Los Angeles         0         0         0         0         0         0         0         0         0         3         0         0
+                                     Empress Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+                             Halter Ranch Vineyard         0         0         0         0         3         0         0         0         0         0         0         0
+                Hyatt Vineyard Creek Hotel and Spa         0         0         0         0         0         0         0         0         2         0         0         0
+                       Silver Oak Alexander Valley         0         0         0         0         0         0         0         0         4         0         0         0
+                  Clos Solene Winery/ Aaron Winery         0         0         0         0         1         0         0         0         0         0         0         0
+                                 Balboa Bay Resort         0         0         0         0         0         0         0         0         2         0         0         0
+                           Cedar House Sport Hotel         0         0         0         0         0         0         0         0         1         0         0         0
+                     The Mountain House Restaurant         0         0         0         0         2         0         0         0         0         0         0         0
+       InterContinental Mark Hopkins San Francisco         0         0         0         0         0         0         0         0         0         2         0         0
+                                  Ovid Napa Valley         0         0         0         0         0         0         0         0         1         0         0         0
+             Doubletree by Hilton - Newark/Fremont         0         0         0         0         0         0         0         0         4         0         0         0
+                                The Monterey Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+               Sheraton San Diego Hotel and Marina         0         0         0         0         0         0         0         0         2         0         0         0
+                       Quality Inn - Redwoods Area         0         0         0         0         0         0         0         0         4         0         0         0
+                     Ayres Hotel - Fountain Valley         0         0         0         0         0         0         0         0         3         0         0         0
+                                  Broadstone Plaza         0         0         0         0         0         0         0         0         2         0         0         0
+                                     A Shade Above         0         0         0         0         2         0         0         0         0         0         0         0
+                         Storybook Mountain Winery         0         0         0         0         0         0         0         0         0         1         0         0
+                          Avenue of the Arts Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+                Hotel Maya, a Doubletree by Hilton         0         0         0         0         2         0         0         0         0         0         0         0
+                        Old Faithful Geyser Resort         0         0         0         0         0         2         0         0         0         0         0         0
+                            Quixote and Pott Wines         0         0         0         0         0         0         0         0         1         0         0         0
+                               Cambria Beach Lodge         0         1         0         0         0         0         0         0         0         0         0         0
+                                Terra Savia Winery         0         0         0         0         0         0         0         0         0         2         0         0
+          W Hotel Los Angeles - West Beverly Hills         0         0         0         0         0         0         0         0         2         0         0         0
+                               Herman Story Winery         0         0         0         0         2         0         0         0         0         0         0         0
+                                 Chateau du Sureau         0         0         0         0         0         0         0         0         2         0         0         0
+                                  Hounds Tooth Inn         0         0         0         0         2         0         0         0         0         0         0         0
+                          Booker Vineyard & Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                                    Sparrows Lodge         0         0         0         0         1         0         0         0         0         0         0         0
+                          Twin Pine Casino & Hotel         0         0         0         0         0         0         0         0         3         0         0         0
+                               Carmel Valley Ranch         0         0         0         0         0         0         2         0         0         0         0         0
+                   El Colibri Boutique Hotel & Spa         0         0         0         0         0         0         0         0         0         0         1         0
+                                 Wine & Rose Hotel         0         2         0         0         0         0         0         0         0         0         0         0
+                          1600 Vine Parking Garage         0         0         0         0         2         0         0         0         0         0         0         0
+      The Ritz-Carlton, Half Moon Bay + Golf Links         0         0         0         0         0         0         0         0         6         0         0         0
+                 Holiday Inn Express Mountain View         0         0         0         0         1         0         0         0         0         0         0         0
+               Residence Inn Los Angeles L.A. Live         0         1         0         0         0         0         0         0         0         0         0         0
+                         Best Western Plus La Mesa         0         0         0         0         2         0         0         0         0         0         0         0
+                          Manhattan Beach Marriott         0         0         0         0         4         0         0         0         0         0         0         0
+                                La Rochelle Winery         0         0         0         0         1         0         0         0         0         0         0         0
+          Mt. Lassen Park & Shingletown Campground         0         0         0         0         0         0         0         0         0         2         0         0
+                                    The Rose Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+              Beachcomber Motel & Spa on the Beach         0         0         0         0         1         0         0         0         0         0         0         0
+                                      Adelaide Inn         0         0         0         0         0         0         0         0         0         1         0         0
+            Signature Flight Support Van Nuys East         0         0         0         0         0         4         0         0         0         0         0         0
+     Inn at Occidental, a Select Registry Property         0         0         0         0         0         0         0         0         0         1         0         0
+                                Amizetta Vineyards         0         0         0         0         0         0         0         0         0         1         0         0
+                                 The Bristol Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+                                     Seal Cove Inn         0         0         0         0         1         0         0         0         0         0         0         0
+                              Feather Falls Casino         0         0         0         0         0         0         2         0         0         0         0         0
+                           THE SPRING Resort & Spa         0         0         0         0         1         0         0         0         0         0         0         0
+                             Tablas Creek Vineyard         0         0         0         0         1         0         0         0         0         0         0         0
+                         Creekside Bed & Breakfast         0         0         0         0         2         0         0         0         0         0         0         0
+                                  Wellspring Ranch         0         0         0         0         0         0         0         0         1         0         0         0
+                                  The Canary Hotel         0         0         0         0         1         0         0         0         0         0         0         0
+                        Shade Hotel, Redondo Beach         0         0         0         0         0         0         0         0         1         0         0         0
+                                   Haven Gastropub         0         0         0         0         2         0         0         0         0         0         0         0
+                                 The Cliffs Resort         0         0         0         0         2         0         0         0         0         0         0         0
+                      Convoy Street Parking Garage         0         0         0         0         1         0         0         0         0         0         0         0
+                La Quinta Inn & Suites Morgan Hill         0         0         0         0         0         0         0         0         4         0         0         0
+                                Tomales Bay Resort         0         0         0         0         3         0         0         0         0         0         0         0
+                                     Denner Winery         0         0         0         0         4         0         0         0         0         0         0         0
+                                Priest Ranch Wines         0         0         0         0         0         0         0         0         2         0         0         0
+                           Fairwinds Estate Winery         0         0         0         0         0         0         3         0         0         0         0         0
+                           Papapietro Perry Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                               Creekside Inn Hotel         0         0         0         2         0         0         0         0         0         0         0         0
+                      Black Stallion Estate Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                                   Sea Ranch Lodge         0         0         0         0         0         0         0         0         0         2         0         0
+                                         Aloha Inn         0         0         0         0         1         0         0         0         0         0         0         0
+                                 Tradewinds Carmel         0         0         0         0         0         0         0         0         1         0         0         0
+Lake Arrowhead Resort & Spa-Autograph Collection by Marriott         0         0         0         0         0         0         0         0         2         0         0         0
+               Paradise Point, A Destination Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+                        The Players Casino Ventura         0         0         0         0         2         0         0         0         0         0         0         0
+                                 Martin Ray Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                               Mending Wall Winery         0         0         0         0         0         0         0         0         0         0         1         0
+                      The Ritz-Carlton, Lake Tahoe         0         0         0         0         0         0         0         0         0         4         0         0
+                       Lake Elsinore Valley Center         0         0         0         0         0         0         0         0         2         0         0         0
+                                    Corison Winery         0         0         0         0         1         0         0         0         0         0         0         0
+                                Silver Oak Cellars         0         0         0         0         0         0         0         0         2         0         0         0
+                         The Ranch at Laguna Beach         0         0         0         0         1         0         0         0         0         0         0         0
+                                    Agate Cove Inn         0         0         0         0         1         0         0         0         0         0         0         0
+                        Lakehouse Hotel and Resort         0         0         0         0         0         0         0         0         2         0         0         0
+                                    ForFriends Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                            Hyatt Carmel Highlands         0         0         0         0         0         0         0         0         0         2         0         0
+                  Hampton Inn & Suites Palm Desert         0         0         0         0         2         0         0         0         0         0         0         0
+                        Hilton Los Angeles Airport         0         0         0         0         0         0         0         0         0         0         2         0
+             Omni Rancho Las Palmas Resort and Spa         0         0         0         0         0         0         0         0         2         0         0         0
+                   Estancia La Jolla Hotel and Spa         0         0         0         0         4         0         0         0         0         0         0         0
+   The Groveland Hotel, a Select Registry Property         0         0         0         0         0         0         0         0         0         1         0         0
+    Four Seasons Resort The Biltmore Santa Barbara         0         0         0         0         0         0         0         0         4         0         0         0
+                                 Lagunitas Brewing         0         0         0         0         0         0         0         0         3         0         0         0
+                             Sierra Nevada Brewing         0         0         0         0         0         0         0         0         2         0         0         0
+                          Best Western Orchard Inn         0         0         0         0         0         0         0         0         0         2         0         0
+              Spottswoode Estate Vineyard & Winery         0         0         0         0         1         0         0         0         0         0         0         0
+                        Holiday House Palm Springs         0         0         0         0         0         0         0         0         2         0         0         0
+                                Embarc Palm Desert         0         0         0         0         0         0         0         0         1         0         0         0
+                           Black Oak Casino Resort         5         0         0         0         0         0         0         0         0         0         0         0
+              Embassy Suites by Hilton - LAX South         0         0         0         0         1         0         0         0         0         0         0         0
+                                 Shore Cliff Hotel         0         0         0         0         0         0         0         0         1         0         0         0
+                           SummerWood Winery & Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                                   Evergreen Lodge         0         0         0         0         0         0         0         0         0         1         0         0
+                         Valley of the Moon Winery         0         0         0         0         0         0         0         0         0         1         0         0
+                                Elk Cove Inn & Spa         0         0         0         0         1         0         0         0         0         0         0         0
+   Hyatt Place at Anaheim Resort/Convention Center         0         0         0         0         0         0         0         0         2         0         0         0
+                          The Landing Resort & Spa         0         0         0         0         0         0         0         0         1         0         0         0
+                                   Hollywood Hotel         0         0         0         0         3         0         0         0         0         0         0         0
+         Doubletree by Hilton Los Angeles Downtown         0         0         0         0         1         0         0         0         0         0         0         0
+                                 The Victorian Inn         0         1         0         0         0         0         0         0         0         0         0         0
+                     Grass Valley Courtyard Suites         0         0         0         0         0         0         0         0         0         2         0         0
+                                 Long Meadow Ranch         0         0         0         0         0         0         0         0         0         2         0         0
+                         Viader Vineyards & Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                                   Chateau Marmont         0         0         0         0         2         0         0         0         0         0         0         0
+         DoubleTree by Hilton Los Angeles/Rosemead         0         0         0         0         2         0         0         0         0         0         0         0
+                                           h2hotel         0         0         0         0         1         0         0         0         0         0         0         0
+                            Jada Vineyard & Winery         0         0         0         0         2         0         0         0         0         0         0         0
+                        Ayres Suites - Diamond Bar         0         0         0         0         0         0         0         0         3         0         0         0
+                                  Yao Family Wines         0         0         0         0         1         0         0         0         0         0         0         0
+                             Turnbull Wine Cellars         0         0         0         0         0         0         0         0         1         0         0         0
+                                 The Huntley Hotel         0         0         0         0         1         0         0         0         0         0         0         0
+         San Francisco Airport Marriott Waterfront         0         0         0         0         0         0         0         0         0         1         0         0
+                               Italics Winegrowers         0         0         0         0         0         0         0         0         1         0         0         0
+       Inn on Randolph, a Select Registry Property         0         0         0         0         0         0         0         0         0         1         0         0
+                   Ayres Hotel & Suites Costa Mesa         0         0         0         0         0         0         0         0         2         0         0         0
+                               Saint Helena Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                                    Post Ranch Inn         0         0         0         0         0         0         0         0         0         3         0         0
+                        The Inn at Rancho Santa Fe         0         0         0         0         0         0         0         0         2         0         0         0
+                                 Chalet View Lodge         0         0         0         0         3         0         0         0         0         0         0         0
+                  Le Meridien Delfina Santa Monica         0         0         0         0         2         0         0         0         0         0         0         0
+                        The Fairmont San Francisco         0         0         0         0         0         0         0         0         0         2         0         0
+                                      Vintners Inn         0         0         0         0         0         0         0         0         0         1         0         0
+                          Kirkwood Mountain Resort         0         0         0         0         0         0         0         0         6         0         0         0
+                             Grande Colonial Hotel         0         0         0         0         2         0         0         0         0         0         0         0
+                              The Esalen Institute         0         0         0         0         0         0         0         0         2         0         0         0
+                                Dry Creek Vineyard         0         0         0         0         0         0         0         0         0         0         0         3
+                                 River Terrace Inn         0         0         0         0         0         0         0         0         0         2         0         0
+                                   River Belle Inn         0         2         0         0         0         0         0         0         0         0         0         0
+Las Alcobas, A Luxury Collection Hotel, Napa Valley         0         0         0         0         0         0         0         0         3         0         0         0
+                                 Northstar Village         0         0         0         0         0         0         0         0         2         0         0         0
+                      The Village Lodge at Mammoth         0         0         0         0         0         0         0         0         4         0         0         0
+               Signature Flight Support - San Jose         0         0         0         0         0         0         0         0         4         0         0         0
+                                  The Madison Club         0         0         0         0         0         0         0         0         3         0         0         0
+         JW Marriott Desert Springs Resort and Spa         0         0         0         0         0         4         0         0         0         0         0         0
+                                    Longoria Wines         0         0         0         0         0         0         0         0         1         0         0         0
+            Hyatt Regency Mission Bay Spa & Marina         0         0         0         0         0         0         0         0         2         0         0         0
+                          Marriott Irvine Spectrum         0         1         0         0         0         0         0         0         0         0         0         0
+                            Luxe Sunset Blvd Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+                                     Chateau Diana         0         0         0         0         0         0         0         0         0         2         0         0
+                    Homewood Suites Anaheim Resort         0         0         0         0         2         0         0         0         0         0         0         0
+                                 Pasea Hotel & Spa         0         0         0         0         0         0         0         0         2         0         0         0
+                               REST Hotel Plymouth         0         0         0         0         1         0         0         0         0         0         0         0
+                                             SPACE         0         0         0         0         4         0         0         0         0         0         0         0
+                                   O'Brien Estates         0         0         0         0         2         0         0         0         0         0         0         0
+                               Bacara Resort & Spa         0         0         0         0         0         0         0         0         0         0         2         0
+                                 Grand Vista Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+                            Red Lion Hotel Redding         0         0         0         0         2         0         0         0         0         0         0         0
+                                    Trattore Farms         0         0         0         0         0         0         0         0         2         0         0         0
+                                  Hotel Healdsburg         0         0         0         0         1         0         0         0         0         0         0         0
+                                      Kon Tiki Inn         0         0         0         0         0         0         0         0         1         0         0         0
+                        Marriott TownePlace Suites         0         0         0         0         0         0         0         0         0         1         0         0
+                              Hyatt Westlake Plaza         0         0         0         0         0         0         0         0         0         2         0         0
+                           Best Western Seven Seas         0         0         0         0         0         0         0         0         1         0         0         0
+                                 Round Pond Winery         0         0         0         0         0         0         0         0         0         2         0         0
+                             The Fairmont San Jose         0         0         0         0         0         0         0         0         0         2         0         0
+                                   Pessagno Winery         0         0         0         0         1         0         0         0         0         0         0         0
+                          Chateau Montelena Winery         0         0         0         3         0         0         0         0         0         0         0         0
+                                   Hotel Los Gatos         0         0         0         0         0         0         0         0         2         0         0         0
+                        Mosaic Hotel Beverly Hills         0         0         0         0         0         0         0         0         2         0         0         0
+                  Bella Vista Bed & Breakfast Inc.         0         0         0         0         0         0         0         0         1         0         0         0
+                       Torrance Marriott South Bay         0         0         0         0         0         0         0         0         0         1         0         0
+                                 Geoffrey's Malibu         0         0         0         0         0         0         0         0         4         0         0         0
+                           Ayres Inn - Corona East         0         0         0         0         0         0         0         0         3         0         0         0
+                           Travelodge Santa Monica         0         0         0         0         0         0         0         0         0         0         2         0
+                            Silverado Resort & Spa         0         0         0         0         0         0         0         0        12         0         0         0
+                         Calistoga Spa Hot Springs         0         0         0         0         2         0         0         0         0         0         0         0
+McCaffrey House Bed & Breakfast Inn, a Select Registry Property         0         0         0         0         0         0         0         0         1         0         0         0
+                                         Meadowood         0         0         0         0         0         0         0         0         6         0         0         0
+                                  Adelaida Cellars         0         0         0         0         2         0         0         0         0         0         0         0
+                                    Hilton Anaheim         0         0         0         0         0         0         0         0         3         0         0         0
+                                       Andis Wines         0         0         0         0         2         0         0         0         0         0         0         0
+                                The Bewildered Pig         0         1         0         0         0         0         0         0         0         0         0         0
+                Hyatt Regency La Jolla at Aventine         0         0         0         0         0         0         0         0         4         0         0         0
+                  Red Lion Inn & Suites Susanville         0         0         0         0         0         0         0         0         2         0         0         0
+                         Best Western Antelope Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                              Vincent Hill Station         0         0         0         0         0         0         0         0         3         0         0         0
+                                   Rental Property         0         0         0         0         1         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         2         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0         0         0         0         0         0         0         0         0         0         0         1         0         0         0         0
+                        Twomey Cellars, Healdsburg         0         0         0         0         0         0         0         0         1         0         0         0
+                          Lakehouse Hotel & Resort         0         0         0         0         1         0         0         0         0         0         0         0
+                              Odette Estate Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                   Golden Door Luxury Resort & Spa         0         0         0         0         0         0         0         0         2         0         0         0
+                      Velo Vino Clif Family Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                            Mount View Hotel & Spa         0         0         0         0         1         0         0         0         0         0         0         0
+                       Holiday Inn Express Solvang         0         0         0         0         0         0         0         0         0         2         0         0
+                 Delicato Family Vineyards Manteca         0         0         0         0         0         0         0         0         1         0         0         0
+                      Holiday Inn Express & Suites         0         0         0         0         2         0         0         0         0         0         0         0         0         0         0         0         0         0         0         0         2         0         0         0
+                                   Jamestown Hotel         0         0         0         0         0         0         0         0         1         0         0         0
+                Best Western Danville Sycamore Inn         0         0         0         0         2         0         0         0         0         0         0         0
+                       Kendall Jackson Wine Estate         0         0         0         0         0         0         0         0         1         0         0         0
+                                    The Poetry Inn         0         0         0         0         1         0         0         0         0         0         0         0
+          Sea Rock Inn, a Select Registry Property         0         0         0         0         0         0         0         0         0         2         0         0
+                       Best Western Plus Black Oak         0         0         0         0         0         0         0         0         1         0         0         0
+              Chase International South Lake Tahoe         0         0         0         0         0         0         0         0         1         0         0         0
+                                  San Ysidro Ranch         0         0         0         0         0         0         0         0         2         0         0         0
+                       Hilton Garden Inn Palo Alto         0         0         0         0         0         0         0         0         0         3         0         0
+                        Spear Vineyards and Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                       The Stanford Inn by the Sea         0         0         0         0         0         0         0         0         1         0         0         0
+                             Resort at Squaw Creek         0         0         0         0         0         0         0         0         7         0         0         0
+                        Ayres Suites - Yorba Linda         0         0         0         0         0         0         0         0         3         0         0         0
+                                 Hotel Azure Tahoe         0         0         0         0         0         0         0         0         2         0         0         0
+                      Best Western Plus Fresno Inn         0         0         0         0         0         0         0         0         1         0         0         0
+                             Mozambique Restaurant         0         0         0         0         2         0         0         0         0         0         0         0
+                                 AKA Beverly Hills         0         0         0         0         3         0         0         0         0         0         0         0
+                                          US Grant         0         0         0         0         3         0         0         0         0         0         0         0
+                                  Toll House Hotel         0         0         0         0         0         0         0         0         6         0         0         0
+                           Palos Verdes Art Center         0         0         0         0         0         0         0         0         2         0         0         0
+                              Sunset Marquis Hotel         0         0         0         0         0         0         0         0         6         0         0         0
+           Hyatt Regency Indian Wells Resort & Spa         0         0         0         0         3         0         0         0         0         0         0         0
+                                      Rotta Winery         0         0         0         0         3         0         0         0         0         0         0         0
+            Best Western Plus Yosemite Gateway Inn         0         0         0         0         0         0         0         0         0         2         0         0
+                            LEVEL Furnished Living         0         0         0         0         3         0         0         0         0         0         0         0
+             Monterey Tides, a Joie de Vivre hotel         0         0         0         0         0         0         0         0         3         0         0         0
+                               Long Beach Marriott         0         0         0         0         0         0         0         0         0         2         0         0
+     Juniper Cupertino, Curio Collection by Hilton         0         0         0         0         1         0         0         0         0         0         0         0
+                       The Redwood Riverwalk Hotel         0         0         0         0         2         0         0         0         0         0         0         0
+                     Tachi Palace Hotel and Casino         0         0         0         0         0         0         0         0         5         0         0         0
+                               Cambria Pines Lodge         0         0         0         0         0         0         0         0         2         0         0         0
+                               Beverly Hills Hotel         0         0         0         0         0         0         0         0         5         0         0         0
+                            AutoCamp Russian River         0         0         0         0         2         0         0         0         0         0         0         0
+                            Peltzer Family Cellars         0         0         0         0         2         0         0         0         0         0         0         0
+               T Sportline - Al and Ed's Autosound         0         0         0         0         0         0         0         0         3         0         0         0
+                             Trinchero Napa Valley         0         0         0         0         1         0         0         0         0         0         0         0
+                                      Casa Madrona         0         0         0         0         0         0         0         0         1         0         0         0
+                             Super 8 Motel Fortuna         0         0         0         0         0         0         0         0         0         0         2         0
+                          101 Second Street Garage         0         0         0         0         2         0         0         0         0         0         0         0
+                           Marriott's Timber Lodge         0         0         0         0         0         0         0         0         2         0         0         0
+                            Ace Hotel Palm Springs         0         0         0         0         0         0         0         0         0         2         0         0
+                           Joseph Phelps Vineyards         0         0         0         0         0         0         0         0         0         2         0         0
+                      Ayres Inn & Suites - Ontario         0         0         0         0         0         0         0         0         3         0         0         0
+   Hampton Inn Los Angeles Int'l Airport Hawthorne         0         0         0         0         0         0         0         0         3         0         0         0
+                                  Santa Anita Park         0         0         0         0         3         0         0         0         0         0         0         0
+                           Southbridge Napa Valley         0         0         0         0         0         0         0         0         2         0         0         0
+                        SLS Hotel at Beverly Hills         0         0         0         0         2         0         0         0         0         0         0         0
+                                Hotel del Coronado         0         0         0         0         0         0         0         0         0         0         4         0
+                                     Davis Estates         0         0         0         0         0         0         0         0         2         0         0         0
+                                 Element  Palmdale         0         0         0         0         0         0         0         0         3         0         0         0
+                          Paradise Cove Beach Cafe         0         0         0         0         0         0         0         0         2         0         0         0
+                                The Coachman Hotel         0         0         0         0         0         0         0         0         1         0         0         0
+                             Thomas George Estates         0         0         0         0         0         0         0         0         1         0         0         0
+                                  Anaheim Marriott         0         0         0         0         0         0         0         0         2         0         0         0
+                                  Acquiesce Winery         0         0         0         0         1         0         0         0         0         0         0         0
+            Tallman Hotel and Blue Wing Restaurant         0         0         0         0         0         0         0         0         2         0         0         0
+                                Palissandro Winery         0         0         0         0         1         0         0         0         0         0         0         0
+                                Belmond El Encanto         0         4         0         0         0         0         0         0         0         0         0         0
+  Universal CityWalk Parking (Frankenstein Garage)         0         0         0         0         0         0         0         0         1         0         0         0
+                   Coronado Island Marriott Resort         0         0         0         0         0         0         0         0         2         0         0         0
+                                             PRESS         0         0         0         0         1         0         0         0         0         0         0         0
+                       Shutters on the Beach Hotel         0         0         0         0         3         0         0         0         0         0         0         0
+                            Five Crowns Restaurant         0         0         0         0         0         0         0         0         0         2         0         0
+                            Ayres Hotel - Redlands         0         0         0         0         0         0         0         0         3         0         0         0
+                   Hotel Buchanan, a Kimpton Hotel         0         0         0         0         0         0         0         0         0         2         0         0
+                                       SENZA Hotel         0         0         0         0         0         0         0         0         0         2         0         0
+                             Westin Monache Resort         0         0         0         0         3         0         0         0         0         0         0         0
+                            Tedeschi Family Winery         0         0         0         0         1         0         0         0         0         0         0         0
+                            The Inn at Locke House         0         0         0         0         0         0         0         0         1         0         0         0
+InterContinental Hotel Los Angeles, Century City at Beverly Hills         0         0         0         0         0         0         0         0         2         0         0         0
+                                 Seven Mile Casino         0         0         0         0         0         0         0         0         0         4         0         0
+                               Cavallo Point Lodge         0         0         0         0         0         0         0         0         0         2         0         0
+             The Fairmont Sonoma Mission Inn & Spa         0         0         0         0         0         0         0         0         0         2         0         0
+                        Silverlakes Sports Complex         0         0         0         0         0         0         0         0         2         0         0         0
+               Grand Residences by Marriott, Tahoe         0         0         0         0         0         0         0         0         1         0         0         0
+                                Colony Palms Hotel         0         0         0         0         0         0         0         0         0         2         0         0
+                                    Dunsmuir Lodge         0         2         0         0         0         0         0         0         0         0         0         0
+         SpringHill Suites by Marriott Napa Valley         0         0         0         0         0         0         0         0         5         0         0         0
+                                       Rudd Winery         0         0         0         0         1         0         0         0         0         0         0         0
+                         The Standard, Downtown LA         0         0         0         0         0         0         0         0         2         0         0         0
+                                     80|50 Mammoth         0         0         0         0         0         0         0         0         2         0         0         0
+                          Orchard Hill Country Inn         0         0         0         0         0         0         0         0         0         2         0         0
+             The Willows Historic Palm Springs Inn         0         0         0         0         0         0         0         0         0         1         0         0
+                               Mendocino Inn & Spa         0         0         0         0         0         0         0         0         2         0         0         0
+                              Monarch Beach Resort         0         0         0         0         0         0         0         0         3         0         0         0
+                    On the Beach Bed and Breakfast         0         0         0         0         2         0         0         0         0         0         0         0
+                                    Days Inn Ukiah         0         0         0         0         2         0         0         0         0         0         0         0
+                     Fairmont Grand Del Mar Resort         0         0         0         0         0         0         0         0         4         0         0         0
+         Riverside Inn, a Select Registry Property         0         0         0         0         0         0         0         0         1         0         0         0
+                         Twomey Cellars, Calistoga         0         0         0         0         0         0         0         0         1         0         0         0
+                       The Gables Wine Country Inn         0         0         0         0         0         0         0         0         0         2         0         0
+                                  Sand Pebbles Inn         0         0         0         0         0         0         0         0         1         0         0         0
+              Vista Sotheby's international Realty         0         0         0         0         0         0         0         0         1         0         0         0
+                                   Paso Robles Inn         0         0         0         0         0         0         0         0         1         0         0         0
+                                     Sea Otter Inn         0         0         0         0         0         0         0         0         2         0         0         0
+              Sofitel Los Angeles at Beverly Hills         0         0         0         0         0         0         0         0         6         0         0         0
+                                Stonehouse Cellars         0         0         0         0         0         0         0         0         2         0         0         0
+                        Radisson Hotel Santa Maria         0         0         0         0         0         0         0         0         2         0         0         0
+                                Emeritus Vineyards         0         0         0         0         1         0         0         0         0         0         0         0
+                                   La Maison Hotel         0         0         0         0         0         0         0         0         0         1         0         0
+                         The Beverly Garland Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+                               Charles Krug Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                            Williams Selyem Winery         0         2         0         0         0         0         0         0         0         0         0         0
+                Fairmont Miramar Hotel & Bungalows         0         0         0         0         0         0         0         0         0         2         0         0
+                              Oxford Suites Sonoma         0         0         0         0         0         0         0         0         2         0         0         0
+                       Hyatt Centric Santa Barbara         0         0         0         0         0         0         0         0         3         0         0         0
+                    Anchor Beach Inn Crescent City         0         0         0         0         0         0         0         0         4         0         0         0
+                                 Ventana Inn & Spa         0         0         0         0         0         0         0         0         3         0         0         0
+               Best Western Plus Thousand Oaks Inn         0         0         0         0         0         0         0         0         0         0         2         0
+                      La Jolla Beach & Tennis Club         0         0         0         0         4         0         0         0         0         0         0         0
+                   Wilshire Vermont Parking Garage         0         0         0         0         2         0         0         0         0         0         0         0
+                                        Dakota Shy         0         0         0         0         0         0         0         0         2         0         0         0
+                                     Tower23 Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+                                 Fogline Vineyards         0         0         0         0         0         0         0         0         2         0         0         0
+                                Surf & Sand Resort         0         0         0         0         6         0         0         0         0         0         0         0
+                                  Blue Dolphin Inn         0         0         0         0         0         0         0         0         1         0         0         0
+  The London West Hollywood at Beverly Hills Hotel         0         0         0         0         0         0         0         0         1         0         0         0
+                               Parker Palm Springs         0         0         0         0         2         0         0         0         0         0         0         0
+                                Park Central Hotel         0         0         0         0         0         0         0         0         1         0         0         0
+                                          ZD Wines         0         0         0         0         0         0         0         0         0         2         0         0
+                                   Villafranca Inn         0         0         0         0         1         0         0         0         0         0         0         0
+             Best Western Plus Marina Shores Hotel         0         0         0         0         0         0         0         0         0         0         2         0
+                                The Gardens Casino         0         0         0         0         0         0         3         0         0         0         0         0
+     Dunbar House 1880, a Select Registry Property         0         0         0         0         1         0         0         0         0         0         0         0
+                           The Standard, Hollywood         0         0         0         0         0         0         0         0         3         0         0         0
+                                 Park Hyatt Aviara         0         0         0         0         0         0         0         0         6         0         0         0
+                                     Farmhouse Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                        Four Seasons Resort Aviara         0         0         0         0         0         0         0         0         0         0         4         0
+                         Ayres Hotel - Chino Hills         0         0         0         0         0         0         0         0         0         0         2         0
+                                     Hotel Bel-Air         0         0         0         0         0         0         0         0         4         0         0         0
+                              Bella Vista Vineyard         0         0         0         0         3         0         0         0         0         0         0         0
+                             The Murieta Inn & Spa         0         0         0         0         1         0         0         0         0         0         0         0
+            Beverly Wilshire, a Four Seasons Hotel         0         0         0         0         0         0         0         0         6         0         0         0
+                  W Hollywood Hotel and Residences         0         0         0         0         0         0         0         0         4         0         0         0
+                                        Elan Hotel         0         0         0         0         2         0         0         0         0         0         0         0
+                                   CaliPaso Winery         0         0         0         0         0         0         0         0         0         2         0         0
+                                   Irvine Marriott         0         0         0         0         3         0         0         0         0         0         0         0
+                                     EV Energy Inc         0         0         0         0         0         0         0         0         1         0         0         0
+                                  Ocean View Lodge         0         0         0         0         0         0         0         0         2         0         0         0
+                              Chicken Ranch Casino         0         0         0         0         0         0         0         0         3         0         0         0
+                                  The Old West Inn         0         0         0         0         1         0         0         0         0         0         0         0
+                      Los Angeles Airport Marriott         0         0         0         0         0         0         0         0         0         2         0         0
+                              The Old Lewiston Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                                ALO Hotel - Orange         0         0         0         0         0         0         0         0         3         0         0         0
+                                 Avila Village Inn         0         0         0         0         2         0         0         0         0         0         0         0
+                                    Benovia Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                   The Ritz-Carlton, Rancho Mirage         0         0         0         0         0         0         0         0         0         4         0         0
+              345 California Center Parking Garage         0         0         0         0         0         0         0         0         1         0         0         0
+                      Center Street Parking Garage         0         3         0         0         0         0         0         0         0         0         0         0
+                                      Victoria Inn         0         0         0         0         1         0         0         0         0         0         0         0
+                                Robert Hall Winery         0         0         0         0         2         0         0         0         0         0         0         0
+                             Whitehall Lane Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                   Hilton Garden Inn Rancho Mirage         0         0         0         0         2         0         0         0         0         0         0         0
+                                   Windward Winery         0         0         0         0         2         0         0         0         0         0         0         0
+        The Westin Mission Hills Golf Resort & Spa         0         0         0         0         0         0         0         0         4         0         0         0
+                   Sheraton Sonoma County-Petaluma         0         0         0         0         0         0         0         0         2         0         0         0
+                          Ayres Hotel - Seal Beach         0         0         0         0         0         0         0         0         3         0         0         0
+                          Dolphin Bay Resort & Spa         0         0         0         0         0         0         0         0         2         0         0         0
+       Best Western The Inn & Suites Pacific Grove         0         0         0         0         0         0         0         0         2         0         0         0
+                                The Casitas Estate         0         0         0         0         1         0         0         0         0         0         0         0
+       Madrona Manor Wine Country Inn & Restaurant         0         0         0         0         1         0         0         0         0         0         0         0
+                                          Tally Ho         0         0         0         0         1         0         0         0         0         0         0         0
+                                   Bernardus Lodge         0         0         0         0         2         0         0         0         0         0         0         0
+                       Hyatt Regency Newport Beach         0         0         0         0         0         0         0         0         2         0         0         0
+                                CADE Estate Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                                Niner Wine Estates         0         0         0         0         0         0         0         0         2         0         0         0
+                          Met Lofts Parking Garage         0         0         0         0         2         0         0         0         0         0         0         0
+Fairfield Inn & Suites by Marriott Santa Cruz - Capitola         0         0         0         0         1         0         0         0         0         0         0         0
+                              Ayres Hotel - Orange         0         0         0         0         0         0         0         0         3         0         0         0
+                        The Resort At Pelican Hill         0         0         0         0         0         0         0         0         2         0         0         0
+                                       Cass Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                     Alta Colina Vineyard & Winery         0         2         0         0         0         0         0         0         0         0         0         0
+                     The Chateau at Lake La Quinta         0         0         0         0         0         0         0         0         3         0         0         0
+                                  Favero Vineyards         0         0         0         0         0         0         0         0         1         0         0         0
+       Heavenly Mountain Resort - California Lodge         0         0         0         0         0         0         0         0         1         0         0         0
+                  The Ritz-Carlton, Marina Del Rey         0         0         0         0         0         0         0         0         2         0         0         0
+                                    Redwood Suites         0         0         0         0         1         0         0         0         0         0         0         0
+                           Las Casuelas Restaurant         0         0         0         0         0         0         0         0         3         0         0         0
+                                 Ram's Gate Winery         0         0         0         0         0         0         0         0         0         2         0         0
+                                  Little River Inn         0         0         0         0         0         0         0         0         0         2         0         0
+                                 South Coast Plaza         0         0         0         0         1         0         0         0         0         0         0         0
+                 Applewood Inn, Restaurant and Spa         0         0         0         0         2         0         0         0         0         0         0         0
+                              Los Gatos Garden Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                                Carmel Mission Inn         0         0         0         0         0         0         0         0         0         2         0         0
+                                    Basecamp Hotel         0         0         0         0         0         0         0         0         0         2         0         0
+               Hotel Kabuki, a Joie de Vivre Hotel         0         0         0         0         1         0         0         0         0         0         0         0
+                                     Courtwood Inn         0         0         0         0         0         0         0         0         1         0         0         0
+                               The Inn at the Cove         0         0         0         0         0         0         0         0         1         0         0         0
+                              David Coffaro Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                         Ayres Suites- Corona West         0         0         0         0         0         0         0         0         3         0         0         0
+                                    Comstock Wines         0         1         0         0         0         0         0         0         0         0         0         0
+                   Fremont Marriott Silicon Valley         0         0         0         0         3         0         0         0         0         0         0         0
+                              Pacific Palms Resort         0         4         0         0         0         0         0         0         0         0         0         0
+                       Loews Regency San Francisco         0         0         0         0         0         0         0         0         1         0         0         0
+                            La Quinta Inn & Suites         0         0         0         0         0         0         0         0         0         1         0         0
+                       The Majestic Yosemite Hotel         0         0         0         0         0         0         0         0         0         1         0         0
+                       Fort Ross Vineyard & Winery         0         0         0         0         0         0         0         0         2         0         0         0
+                Courtyard by Marriott Solana Beach         0         0         0         0         4         0         0         0         0         0         0         0
+       Churchill Manor, a Select Registry Property         0         0         0         0         0         0         0         0         1         0         0         0
+                            Reynolds Family Winery         0         0         0         0         0         0         0         0         1         0         0         0
+                                    Avio Vineyards         0         0         0         0         0         0         0         0         2         0         0         0
+                            Gershon Bachus Vinters         0         0         0         0         2         0         0         0         0         0         0         0
+                     Taste Restaurant and Wine Bar         0         0         0         0         1         0         0         0         0         0         0         0
+                             Ayres Hotel - Anaheim         0         0         0         0         0         0         0         0         3         0         0         0
+                              Wheeler Farms Winery         2         0         0         0         0         0         0         0         0         0         0         0
+                                        HALL Wines         0         0         0         0         0         0         0         0         2         0         0         0
+                                       Niles Hotel         0         0         0         0         0         0         0         0         0         2         0         0
+                                     Hearst Castle         0         0         0         0         6         0         0         0         0         0         0         0
+                                     Super 8 Ukiah         0         0         0         0         0         0         0         0         0         2         0         0
+                            Bardessono Hotel & Spa         0         0         0         0         0         0         0         0         2         0         0         0
+                         Virginia Creek Settlement         0         0         0         0         0         0         0         0         1         0         0         0
+                            Juniper Springs Resort         0         0         0         0         0         0         0         0         4         0         0         0
+                                    Napa River Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                     Best Western Garden Court Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                              Montage Laguna Beach         0         4         0         0         0         0         0         0         0         0         0         0
+                                  HammerSky Winery         0         0         0         0         2         0         0         0         0         0         0         0
+                  The Gateway Restaurant and Lodge         0         0         0         0         0         0         0         0         2         0         0         0
+                         Ayres Suites - Costa Mesa         0         0         0         0         0         0         0         0         3         0         0         0
+                                   Desparada Wines         0         0         0         0         1         0         0         0         0         0         0         0
+                             La Jolla Shores Hotel         0         0         0         0         2         0         0         0         0         0         0         0
+                        Ayres Suites - Corona West         0         0         0         0         0         0         0         0         3         0         0         0
+                                Hideaway Golf Club         0         0         0         0         0         0         0         0         0         0         0         3
+       Best Western Plus Dana Point Inn By The Sea         0         0         0         0         1         0         0         0         0         0         0         0
+              Los Angeles Marriott Burbank Airport         0         0         0         0         0         0         0         0         3         0         0         0
+   Four Seasons Hotel Los Angeles at Beverly Hills         0         0         0         0         0         0         0         0         2         0         0         0
+                                 Martinelli Winery         0         0         0         0         1         0         0         0         0         0         0         0
+                    St. Mark Executive Golf Course         0         0         0         0         1         0         0         0         0         0         0         0
+                                 Presqu'ile Winery         0         0         0         0         0         0         0         0         0         2         0         0
+                              Shenandoah Vineyards         0         0         0         0         0         0         0         0         2         0         0         0
+                            Coyote Creek Golf Club         0         0         0         0         0         0         0         0         4         0         0         0
+             Renaissance Indian Wells Resort & Spa         0         0         0         0         0         4         0         0         0         0         0         0
+                                   MacCallum House         0         0         0         0         0         0         0         0         2         0         0         0
+                                   Chateau Margene         0         0         0         0         2         0         0         0         0         0         0         0
+                              Riviera Palm Springs         0         0         0         0         0         0         0         0         3         0         0         0
+                                    Tin City Cider         0         0         0         0         0         0         0         0         2         0         0         0
+Carter House Inns and Restaurant 301, a Select Registry Property         0         0         0         0         1         0         0         0         0         0         0         0
+                               Oxford Suites Chico         0         0         0         0         1         0         0         0         0         0         0         0
+              Town House Motel - Historic Old Town         0         0         0         0         0         0         0         0         2         0         0         0
+       Miramonte Resort & Spa, a Destination Hotel         0         0         0         0         2         0         0         0         0         0         0         0
+                              Alcazar Palm Springs         0         0         0         0         1         0         0         0         0         0         0         0
+       Marriott Riverside at the Convention Center         0         0         0         0         3         0         0         0         0         0         0         0
+            Claremont Club & Spa, A Fairmont Hotel         0         0         0         0         0         0         0         0         1         0         0         0
+                               Mr. C Beverly Hills         0         0         0         0         4         0         0         0         0         0         0         0
+                      101 California Street Garage         0         0         0         0         0         0         0         0         2         0         0         0
+      NCSD Administration and Engineering Building         0         0         0         0         0         0         0         0         2         0         0         0
+                                    Peacock Suites         0         0         0         0         1         0         0         0         0         0         0         0
+                                    Vineyard 7 & 8         0         0         0         0         0         0         0         0         2         0         0         0
+                                     Casino M8trix         0         0         0         0         0         0         0         0         0         3         0         0
+                                Ayres Lodge Alpine         0         0         0         0         0         0         0         0         3         0         0         0
+                          L'Ermitage Beverly Hills         0         0         0         0         0         0         0         0         0         0         2         0
+              Best Western Plus Sunset Plaza Hotel         0         0         0         0         0         0         0         0         2         0         0         0
+                    San Francisco Marriott Marquis         0         0         0         0         0         0         0         0         0         2         0         0
+                                The Beverly Hilton         0         0         0         0         0         0         0         0         4         0         0         0
+                               Pamplemousse Grille         0         0         0         0         0         0         0         0         1         0         0         0
+                    Hyatt Regency Huntington Beach         0         0         0         0         0         0         0         0         0         2         0         0
+                   Best Western Plus Executive Inn         0         0         0         0         0         0         0         0         2         0         0         0
+                                  Gray Eagle Lodge         0         0         0         0         1         0         0         0         0         0         0         0
+                                       The Bergson         0         0         0         0         1         0         0         0         0         0         0         0
+                              The Lodge at Tiburon         0         0         0         0         0         0         0         0         1         0         0         0
+                           Tahoe Luxury Properties         0         0         0         0         0         0         0         0         0         1         0         0
+        Embassy Suites Hotel - San Diego, La Jolla         0         0         0         0         0         0         0         0         0         0         2         0
+                                      JUSTIN Wines         0         0         0         0         2         0         0         0         0         0         0         0
+                                   Fern Valley Inn         0         0         0         0         2         0         0         0         0         0         0         0
+                                 San Francisco Zoo         0         0         0         0         6         0         0         0         0         0         0         0
+                 Hilton San Francisco Union Square         0         0         0         0         1         0         0         0         0         0         0         0
+             The Westin Bonaventure Hotel & Suites         0         0         0         0         3         0         0         0         0         0         0         0
+            Ayres Suites Ontario at the Mills Mall         0         0         0         0         0         0         0         0         3         0         0         0
+                                      Island Hotel         0         0         0         0         1         0         0         0         0         0         0         0
+                Yosemite Plaisance Bed & Breakfast         0         0         0         0         0         0         0         0         2         0         0         0
+              Hyatt Regency Monterey Hotel and Spa         0         0         0         0         2         0         0         0         0         0         0         0
+                               Bonanza King Resort         0         0         0         0         0         0         0         0         1         0         0         0
+               JW Marriott Santa Monica Le Merigot         0         0         0         0         0         0         0         0         4         0         0         0
+                            Luxe Rodeo Drive Hotel         0         0         0         0         4         0         0         0         0         0         0         0
+                           Pear Valley Estate Wine         0         0         0         0         1         0         0         0         0         0         0         0
+                                Carmel Country Inn         0         0         0         0         1         0         0         0         0         0         0         0
+                                   Alibi Ale Works         0         0         0         0         0         0         0         0         2         0         0         0
+                                     Montecito Inn         0         0         0         0         0         0         4         0         0         0         0         0
+                                     Ambrose Hotel         0         0         0         0         0         0         0         0         0         0         0         2
+                                The Epiphany Hotel         0         0         0         0         1         0         0         0         0         0         0         0
+                             Seascape Beach Resort         0         0         0         0         0         0         0         0         3         0         0         0
+                                 Quivira Vineyards         0         0         0         0         0         0         0         0         1         0         0         0
+                               Pacific Crest Hotel         0         0         0         0         0         0         0         0         1         0         0         0
+                                Hans Fahden Winery         0         1         0         0         0         0         0         0         0         0         0         0
+                      Trinidad Bay Bed & Breakfast         0         0         0         0         1         0         0         0         0         0         0         0
+Hampton Inn & Suites Windsor - Sonoma Wine Country         0         0         0         0         0         0         0         0         0         2         0         0
+                                 Monterey Marriott         0         0         0         0         0         0         0         0         0         2         0         0
+                 Ayres Hotel & Spa - Moreno Valley         0         0         0         0         0         0         0         0         2         0         0         0
+                                Alpha Omega Winery         0         0         0         0         0         0         0         0         0         0         0         3
+                           Avila Lighthouse Suites         0         0         0         0         0         0         0         0         1         0         0         0
+                              Santa Clara Marriott         0         0         0         0         1         0         0         0         0         0         0         0
+                                        Olea Hotel         0         0         0         0         0         0         0         0         1         0         0         0
+                       Wilshire West Medical Tower         0         0         0         0         0         0         0         0         0         0         1         0
+                          Hyatt Regency Sacramento         0         0         0         0         0         0         0         0         6         0         0         0
+                  San Manuel Indian Bingo & Casino         0         0         0         0         2         0         0         0         0         0         0         0
+                      Dennen's Victorian Farmhouse         0         0         0         0         1         0         0         0         0         0         0         0
