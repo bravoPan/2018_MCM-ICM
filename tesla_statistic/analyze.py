@@ -1,7 +1,7 @@
 import json
 from pprint import pprint
 
-dest_chargers = eval(json.load(open("super_charger.json", "r")))
+dest_chargers = eval(json.load(open("super_chargers.json", "r")))
 
 charger_type = set()
 city_distribute = {}
@@ -26,7 +26,7 @@ for i in dest_chargers:
 
 # pprint(city_distribute)
 if __name__ == "__main__":
-    with open("dest_charger.txt", "w") as f:
+    with open("super_chargers.txt", "w") as f:
         f.write("%50s" % "Dest")
         for i in type_list:
             f.write("%10s" % i)

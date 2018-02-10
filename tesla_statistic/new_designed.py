@@ -11,14 +11,16 @@ headers = {
                   ' Chrome/46.0.2490.76 Mobile Safari/537.36'
 }
 
-destination_url = "https://www.tesla.com/findus/list/chargers/United+States"
+destination_url = "https://www.tesla.com/findus/list/superchargers/United+States"
+
 
 destination_charger_data = requests.get(destination_url)
 destination_soup = BeautifulSoup(destination_charger_data.text, "lxml")
 all_states = destination_soup.find_all(class_="state")
 # print(all_states[0].find("h2").text)
 cali_info = [i for i in all_states if i.find("h2").text == "California"][0]
-cali_hrefs = ["https://www.tesla.com" + i.get("href") for i in cali_info.find_all("a")]
+cali_hrefs = ["https://www.tesla.com" + i.get("href") for i in cali_info.find_all("a") if "coming soon" not in i.text]
+
 
 waited_url = cali_hrefs
 total = cali_hrefs
@@ -44,19 +46,19 @@ def get_dest_info(url):
 
 
 def catch_connectors(des):
-    connector_match = re.compile("(\d+) Tesla Connectors*, up to (\d+kW)")
+    connector_match = re.compile("(\d+) [Ss]uperchargers*, .* up to (\d+kW)")
     chargers = re.findall(connector_match, des)
     return chargers
 
 
 # while len(waited_url) != 0:
 if __name__ == "__main__":
-    # print(catch_connectors("1 Tesla Connector, up to 16kW"))
+    # print(catch_connectors("8 Superchargers, available 24/7, up to 120kW"))
     pool = mp.Pool()
     test = pool.map(get_dest_info, waited_url)
 
     result = json.dumps(test)
-    with open("super_charger.json", "w") as f:
+    with open("super_chargers.json", "w") as f:
         json.dump(result, f)
 
 # print(dest_detail_info)

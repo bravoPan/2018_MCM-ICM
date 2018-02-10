@@ -1,0 +1,64 @@
+                                              Dest     120kW      72kW
+                                  Monterey-Seaside         6         0
+                              Barstow Supercharger        16         0
+                            Lone Pine Supercharger         4         0
+                        Mammoth Lakes Supercharger         8         0
+                              Cabazon Supercharger        16         0
+                             Temecula Supercharger        10         0
+                         Buellton, CA Supercharger         8         0
+                  Truckee Donner Pass Supercharger         6         0
+                            Santa Ana Supercharger        12         0
+                                Indio Supercharger         8         0
+      Mt. Shasta, CA - 134 Morgan Way Supercharger        16         0
+                       Atascadero, CA Supercharger         8         0
+         Folsom, CA - Iron Point Road Supercharger         4         0
+                                 Napa Supercharger         8         0
+                      Burbank - North Third Street        20         0
+                           Gilroy, CA Supercharger        16         0
+                         Buttonwillow Supercharger        10         0
+                        Roseville, CA Supercharger         7         0
+                            Vacaville Supercharger        16         0
+                          Bakersfield Supercharger        10         0
+                            Groveland Supercharger         7         0
+                           Buena Park Supercharger         8         0
+                              Gustine Supercharger        12         0
+                     San Clemente, CA Supercharger        20         0
+                       Sacramento, CA Supercharger        10         0
+                            San Mateo Supercharger         8         0
+                            Baker, CA Supercharger        40         0
+                             Petaluma Supercharger        10         0
+                                           Fremont        12         0
+                   Kettleman City, CA Supercharger        40         0
+                        Riverside, CA Supercharger         0        24
+                          Salinas, CA Supercharger        14         0
+                            El Centro Supercharger         8         0
+                Truckee Brockway Road Supercharger         8         0
+                               Fresno Supercharger        10         0
+                          Los Angeles Supercharger        12         0
+                           Mt. Shasta Supercharger         4         0
+            Folsom - Palladio Parkway Supercharger        10         0
+                               Dublin-Amador Plaza        14         0
+                            Yermo, CA Supercharger        18         0
+    San Mateo, CA - Bridgepointe Pkwy Supercharger        12         0
+                                Sacramento-Rocklin        18         0
+                     Twentynine Palms Supercharger         8         0
+                          Corning, CA Supercharger         6         0
+                          Culver City Supercharger        16         0
+                              Needles Supercharger         4         0
+                            Fish Camp Supercharger         8         0
+                          Tejon Ranch Supercharger         6         0
+                             Monterey Supercharger        10         0
+                     Rancho Cucamonga Supercharger        12         0
+                                Ukiah Supercharger         8         0
+                             Inyokern Supercharger         4         0
+                        Mountain View Supercharger        12         0
+                        Redondo Beach Supercharger         8         0
+                      Fountain Valley Supercharger        16         0
+                         Harris Ranch Supercharger        18         0
+                        Crescent City Supercharger         6         0
+                               Eureka Supercharger         8         0
+                               Mojave Supercharger         6         0
+                               Oxnard Supercharger        18         0
+                            San Diego Supercharger        12         0
+                              Manteca Supercharger        20         0
+              San Juan Capistrano, CA Supercharger         7         0
