@@ -93,4 +93,3 @@ def expanded_graph(graph, scale):
         expanded_co = (graph[i][0] * scale, graph[i][1] * scale)
         distorted_graph[i] = expanded_co
     return distorted_graph
-
