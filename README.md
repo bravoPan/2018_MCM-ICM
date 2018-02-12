@@ -7,7 +7,7 @@
 </p>
 
 
-Time remains: 49.49 hours
+Time remains: 24.95 hours
 
 #### Contributors: Pan, Johnson, Jenny
 

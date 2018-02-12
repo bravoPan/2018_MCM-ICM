@@ -97,5 +97,6 @@ if __name__ == "__main__":
     # for i in shortest:
     #     print(test.simulation("A", i, 10))
     # test.simulate_point("B", 10, 10)
+    test.compute_all_point_dis()
 
 # a_test = ["V", "M", "L", "O", "U", "T", "S", "R", "N", "H"]
