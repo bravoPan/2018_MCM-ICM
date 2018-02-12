@@ -7,10 +7,9 @@
 </p>
 
 
-Time remains: 24.95 hours
+Time remains: 4.41 hours
 
 #### Contributors: Pan, Johnson, Jenny
 
 ## start with real example 
 
-![](./src/case_study_modified.png)
