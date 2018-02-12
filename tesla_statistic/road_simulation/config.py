@@ -59,3 +59,13 @@ neighbors = {
     "Q": ("N", "R", "S"),
     "R": ("Q", "S")
 }
+
+
+def expanded_graph(graph, scale):
+    distorted_graph = {}
+    for i in graph:
+        expanded_co = (graph[i][0] * scale, graph[i][1] * scale)
+        distorted_graph[i] = expanded_co
+    return distorted_graph
+
+

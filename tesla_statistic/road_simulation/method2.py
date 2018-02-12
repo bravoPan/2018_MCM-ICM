@@ -8,6 +8,45 @@ class MethodTwo:
         self.co_map = co_map
         self.ne_map = ne_map
 
+    def get_slop_rate(self, current_x, current_y, next_x, next_y):
+        return (next_y - current_y) / (next_x - current_x)
+
+    def find_station(self, start, end):
+        path = self.find_shortest(start, end)
+        total_dis = 0
+        charge_poi = []
+        for i in range(len(path) - 1):
+            current_site = path[i]
+            next_site = path[i + 1]
+            current_dis = self.compute_dis(self.co_map[current_site][0], self.co_map[next_site][0],
+                                           self.co_map[current_site][1], self.co_map[next_site][1])
+            # print(current_site + ":", end="")
+            # print((self.co_map[current_site][0], self.co_map[current_site][1]), end="")
+            # print("->", end="")
+            # print(next_site + ":", end="")
+            # print((self.co_map[next_site][0], self.co_map[next_site][1]), end="")
+            # print("   %.2f" % current_dis)
+            # slope = self.get_slop_rate(self.co_map[current_site][0], self.co_map[current_site][1],
+            #                            self.co_map[next_site][0], self.co_map[next_site][1])
+            if total_dis + current_dis >= 20:
+                remain = total_dis + current_dis - 20
+                remain_rate = remain / current_dis
+                # if self.co_map[current_site][1] <= self.co_map[next_site][1]:
+                charge_x = remain_rate * abs((self.co_map[current_site][0] - self.co_map[next_site][0])) + \
+                           self.co_map[current_site][0]
+                charge_y = remain_rate * abs((self.co_map[current_site][1] - self.co_map[next_site][1])) + \
+                           self.co_map[current_site][1]
+                # else:
+                #     charge_x = remain_rate * abs((self.co_map[current_site][0] - self.co_map[next_site][0])) + \
+                #                self.co_map[current_site][0]
+                #     charge_y = remain_rate * abs((self.co_map[current_site][1] - self.co_map[next_site][1])) + \
+                #                self.co_map[current_site][1]
+                charge_poi.append((int(charge_x), int(charge_y)))
+                total_dis = current_dis - remain
+            else:
+                total_dis += current_dis
+        return charge_poi
+
     def simulate(self, start, end):
         path = self.find_shortest(start, end)
         total_dis = 0
@@ -69,7 +108,7 @@ class MethodTwo:
         while end != start:
             path.append(end)
             end = link_dict[end]
-        path.append("A")
+        path.append(start)
         path.reverse()
         return path
 
@@ -85,16 +124,19 @@ class MethodTwo:
         for i in sites:
             print("%5s" % i, end="")
             for j in sites:
-                print("%5d" % self.simulate(i, j), end="")
+                print("%5d" % len(self.find_station(i, j)), end="")
             print("\n")
 
 
 if __name__ == "__main__":
     test = MethodTwo(real_road, neighbors)
     # print(test.simulate("A", "S"))
+    # test.simulate_all()
+    # print(test.find_station("A", "G"))
     test.simulate_all()
     # test.find_shortest("A", "R")
     # test.compute_dis()
     # cost = {"A": 2, "B": 3, "C": 4}
     # a = sorted(cost.items(), key=lambda x: x[1], reverse=False)[]
     # print(a)
+    # print(math.sqrt(math.pow(5, 2) + math.pow(2, 2)))
