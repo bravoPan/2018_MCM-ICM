@@ -1,6 +1,6 @@
 from pprint import pprint
 import math
-from road_simulation.config import real_road
+from road_simulation.config import real_road, au_graph, expanded_graph
 
 '''
 start with the horizontal status like this
@@ -78,7 +78,7 @@ class MethodOne:
         shortest = {}
         for i in points:
             shortest.setdefault(i, self.compute_dis(start, i))
-        final = [i[0] for i in sorted(shortest.items(), key=lambda x: x[1], reverse=True)[:size]]
+        final = [i[0] for i in sorted(shortest.items(), key=lambda x: x[1], reverse=True)[:size] if i[0]]
         return final
 
     def simulate_point(self, start, end_size, capacity):
@@ -90,13 +90,16 @@ class MethodOne:
 
 
 if __name__ == "__main__":
-    test = MethodOne(real_road)
+    real_graph = expanded_graph(au_graph, 10)
+    test = MethodOne(real_graph)
+    # print(test.simulate_point("A", 10, 273))
     # test.simulation("A", 10, "E")
     # test.compute_all_point_dis()
-    # shortest = test.compute_shortest("A", 10)
+    # shortest = test.compute_shortest("A", 273)
+    # print(shortest)
     # for i in shortest:
     #     print(test.simulation("A", i, 10))
     # test.simulate_point("B", 10, 10)
-    test.compute_all_point_dis()
+    # test.compute_all_point_dis()
 
 # a_test = ["V", "M", "L", "O", "U", "T", "S", "R", "N", "H"]

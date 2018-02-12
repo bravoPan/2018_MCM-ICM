@@ -2,7 +2,7 @@ import matplotlib.pyplot as ply
 from road_simulation.method1 import MethodOne
 from road_simulation.config import real_road
 from road_simulation.method2 import MethodTwo
-from road_simulation.config import neighbors, real_road, expanded_graph
+from road_simulation.config import neighbors, real_road, expanded_graph, au_graph
 from PIL import Image, ImageDraw, ImageFont
 from pprint import pprint
 
@@ -74,10 +74,13 @@ def draw_network(scale=10, size=500):
     # img.show()
 
 
-def draw_md1(start):
-    method1 = MethodOne(real_road)
-    waste_result = method1.simulate_point(start, 10, 10)
-    end_dis = ["%d" % i[1] for i in waste_result]
+def draw_md1(start, graph):
+    method1 = MethodOne(graph)
+    waste_result = method1.simulate_point(start, 10, 273)
+    # print(waste_result)
+    # print(waste_result)
+
+    end_dis = sorted(["%d" % i[1] for i in waste_result])
     waste = ["%.2f" % i[2] for i in waste_result]
     ply.plot(end_dis, waste)
     ply.xlabel("d / km", fontsize=15)
@@ -87,10 +90,8 @@ def draw_md1(start):
 
 
 if __name__ == "__main__":
-    # start = ["A", "H", "E", "O"]
-    # for i in start:
-    #     draw_md1(i)
+    start = ["A", "H", "E", "O"]
     # draw_network(scale=25, size=1000)
     # draw_charge_station(scale=25, size=1000)
-    test_list = [("K", "S"), ("V", "H"), ("B", "V")]
-    draw_charge_station(test_list[2][0], test_list[2][1])
+    # test_list = [("K", "S"), ("V", "H"), ("B", "V")]
+    # draw_charge_station(test_list[2][0], test_list[2][1])

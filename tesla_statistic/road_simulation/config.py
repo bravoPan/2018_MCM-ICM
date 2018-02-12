@@ -60,6 +60,32 @@ neighbors = {
     "R": ("Q", "S")
 }
 
+au_graph = {
+    "A": (6, 45),
+    "B": (15, 40),
+    "C": (21, 38),
+    "D": (20, 46),
+    "E": (25, 50),
+    "F": (28, 60),
+    "G": (35, 64),
+    "H": (45, 70),
+    "I": (52, 72),
+    "J": (62, 72),
+    "K": (70, 84),
+    "L": (82, 102),
+    "M": (88, 106),
+    "N": (94, 96),
+    "O": (98, 62),
+    "P": (106, 62),
+    "Q": (112, 60),
+    "R": (108, 58),
+    "S": (106, 50),
+    "T": (96, 34),
+    "U": (76, 30),
+    "V": (60, 24),
+    "W": (48, 26)
+}
+
 
 def expanded_graph(graph, scale):
     distorted_graph = {}
@@ -67,5 +93,4 @@ def expanded_graph(graph, scale):
         expanded_co = (graph[i][0] * scale, graph[i][1] * scale)
         distorted_graph[i] = expanded_co
     return distorted_graph
-
 
