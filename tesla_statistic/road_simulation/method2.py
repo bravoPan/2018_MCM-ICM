@@ -8,7 +8,24 @@ class MethodTwo:
         self.co_map = co_map
         self.ne_map = ne_map
 
-    # def simulate(self):
+    def simulate(self, start, end):
+        path = self.find_shortest(start, end)
+        total_dis = 0
+        charge_num = 0
+        charge_poi = []
+        for i in range(len(path) - 1):
+            current_site = path[i]
+            next_site = path[i + 1]
+            current_dis = self.compute_dis(self.co_map[current_site][0], self.co_map[current_site][1],
+                                           self.co_map[next_site][0], self.co_map[next_site][1])
+            total_dis += current_dis
+            if total_dis >= 30:
+                charge_num += 1
+                total_dis -= 30
+            charge_poi.append((path[i], path[i + 1]))
+        # print("Start from %s, end with %s,  The total mile %s" % (start, end, total_dis))
+        # print("The num is " + str(charge_num))
+        return charge_num
 
     # the shortest distance
     def find_shortest(self, start, end):
@@ -45,8 +62,7 @@ class MethodTwo:
                                                      self.co_map[start][1], self.co_map[end][1])
         # print(order)
         # print(parens)
-        print(self.find_path(parens, org_start, org_end))
-        pprint(costs)
+        return self.find_path(parens, org_start, org_end)
 
     def find_path(self, link_dict, start, end):
         path = []
@@ -61,10 +77,23 @@ class MethodTwo:
     def compute_dis(start_x, end_x, start_y, end_y):
         return math.sqrt(math.pow(start_x - end_x, 2) + math.pow(start_y - end_y, 2))
 
+    def simulate_all(self):
+        sites = list(self.co_map)
+        print("%10s" % sites[0], end="")
+        [print("%5s" % i, end="") for i in sites[1:]]
+        print("\n")
+        for i in sites:
+            print("%5s" % i, end="")
+            for j in sites:
+                print("%5d" % self.simulate(i, j), end="")
+            print("\n")
+
 
 if __name__ == "__main__":
     test = MethodTwo(real_road, neighbors)
-    test.find_shortest("A", "V")
+    # print(test.simulate("A", "S"))
+    test.simulate_all()
+    # test.find_shortest("A", "R")
     # test.compute_dis()
     # cost = {"A": 2, "B": 3, "C": 4}
     # a = sorted(cost.items(), key=lambda x: x[1], reverse=False)[]
