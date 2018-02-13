@@ -7,9 +7,11 @@
 </p>
 
 
-Time remains: 4.41 hours
+Time remains: 0 hours
 
 #### Contributors: Pan, Johnson, Jenny
 
-## start with real example 
+## Final result 
+
+[2018 MCM/ICM TaskD paper](./2018mcmthesis.pdf)
 
