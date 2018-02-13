@@ -24,9 +24,9 @@ cars move and decide the chargers. Start with a site, setting running capacity a
 site it could reach, program ends when start equals end.
 
 !["condition1"](src/method1_overall.png)
-> Condition1, it could arrive at the destination firstly T
+> Condition1, it could arrive at the destination firstly 
 
-he path is AB, then place two chargers at start(A) and end site(B).
+The path is AB, then place two chargers at start(A) and end site(B).
 
 ![](src/fig/fig.012.jpeg)
 > Condition2, this condition aims at solving the cars can not arrive at the final destination firstly. 
@@ -37,19 +37,24 @@ place charger at B, so on... And place at final point.
 ### Shortest Route Preference model (SRP)
 
 ![](src/fig/fig.011.jpeg)
-> Find the shortest path first, and then set the chargers every capacity
+
+Find the shortest path first, and then set the chargers every capacity
 
 ## Funny programs 
 
 ### Visulizaition of dijkastra algorithm 
 The detail file in the [draw_shortest_path](/tesla_statistic/road_simulation/plot.py), here just introduce how it works 
-`draw_charge_station(start, end, scale=25, size=1500, real_road=real_road)`
 
+```
+draw_charge_station(start, end, scale=25, size=1500, real_road=real_road)`
+```
 
 for example: 
-``` draw_charge_station("D", "S")
-    draw_charge_station("D", "S")
-    draw_charge_station("D", "S")
+
+```
+draw_charge_station("D", "S")
+draw_charge_station("B", "O")
+draw_charge_station("E", "T")
 ```
 
 |D-S|B-O|E-T|
