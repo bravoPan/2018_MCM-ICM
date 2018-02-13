@@ -11,7 +11,9 @@ Time remains: 0 hours
 
 #### Contributors: Pan, Johnson, Jenny
 
-## final result
 
-![dfg](./2018mcmthesis.pdf)
+## Final result 
+
+[2018 MCM/ICM TaskD paper](./2018mcmthesis.pdf)
+
 
