@@ -91,6 +91,7 @@ def draw_md1(start, graph):
 
 if __name__ == "__main__":
     start = ["A", "H", "E", "O"]
+    draw_charge_station("D", "S")
     # draw_network(scale=25, size=1000)
     # draw_charge_station(scale=25, size=1000)
     # test_list = [("K", "S"), ("V", "H"), ("B", "V")]

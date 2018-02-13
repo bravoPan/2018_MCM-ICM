@@ -16,4 +16,10 @@ Time remains: 0 hours
 
 [2018 MCM/ICM TaskD paper](./2018mcmthesis.pdf)
 
+## Model Introduction 
 
+### Population Distribution Trail Model (PDT)
+> Start with a site, setting running capacity as radius, find the maximum
+site it could reach, program ends when start equals end 
+
+!["condition1"](src/method1_overall.png )
